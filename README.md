@@ -1,8 +1,12 @@
 # ChangeLogMain
 Informações de todas as modificações feitas em nossos Pluggins.
 
-CMZone Server 0.97x Changelog Update 01 Custom.dll <br/>
-Versão Main: 
+//======================================================= <br />
+//	CMZone Server 0.97x Changelog - Update 01<br />
+//	Versão Main: 0.97.02 (KOR) - Contem Falso Dispositivo <br />
+//	Revisão: 09/10/2023 - 19:00 H <br />
+//=======================================================<br />
+
 
 - Habilitar / Desabilitar Anúncios de Vips.
 - Adicionado ao Message.txt o Anúncio do jogador Online.
