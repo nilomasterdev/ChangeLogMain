@@ -2,6 +2,7 @@
 Informações de todas as modificações feitas em nossos Pluggins.
 
 CMZone Server 0.97x Changelog Update 01 Custom.dll
+Versão Main:
 
 - Habilitar / Desabilitar Anúncios de Vips.
 - Adicionado ao Message.txt o Anúncio do jogador Online.
