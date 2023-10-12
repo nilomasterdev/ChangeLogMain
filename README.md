@@ -8,7 +8,7 @@ Informações de todas as modificações feitas em nossos Pluggins.
 //=======================================================<br />
 
 
-- Adicionado nova fonte.cpp -> Interface.cpp
+- Adicionado nova fonte.cpp -> Interface.cpp 
 - Organizando Imagens da pasta (Data) para pasta (Customs)
 - Fixado Icone da Janela e Main.exe.
 - Removido Função.cpp do sistema Right Click.
