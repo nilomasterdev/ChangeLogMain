@@ -4,7 +4,7 @@ Informações de todas as modificações feitas em nossos Pluggins.
 CMZone Server 0.97x Changelog Update 01 Custom.dll
 GameServer: 0.97.02	
 Revisão: 09/10/2023 - 19:00	H	
-Modificações no GameServer
+Modificações no GameServer 
 
 - Habilitar / Desabilitar Anúncios de Vips.
 - Adicionado ao Message.txt o Anúncio do jogador Online.
