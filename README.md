@@ -5,6 +5,8 @@ Informações de todas as modificações feitas em nossos Pluggins.
 //	CMZone Server 0.97x Changelog - Update 01<br />
 //	Versão Main: 0.97.02 (KOR) - Contem Falso Dispositivo <br />
 //	Revisão: 09/10/2023 - 19:00 H <br />
+//  Créditos Source: Maykon FireTeam<br />
+//  Modificações: Nilo Mster CMZone<br />
 //=======================================================<br />
 
 
