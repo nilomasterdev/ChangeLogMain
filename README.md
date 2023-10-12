@@ -8,12 +8,10 @@ Informações de todas as modificações feitas em nossos Pluggins.
 //=======================================================<br />
 
 
-- Habilitar / Desabilitar Anúncios de Vips.
-- Adicionado ao Message.txt o Anúncio do jogador Online.
-- Adicionados novos Terrains para 8 mapas customs.	
-- Comonado drop Melhorado ( Agora podemos escolher uma quantidade de itens pra dropar )
-- Adicionado comando Setdrop ( Com esse comando dropamos um set Inteiro dentro do jogo )
-- Addpk Fixado
-- Função das Messagens de Comandos do jogo adicionados ao Message.txt
-- Fix Leitura Terrains Maps Limit 27
+- Adicionado nova fonte.cpp -> Interface.cpp
+- Organizando Imagens da pasta (Data) para pasta (Customs)
+- Fixado Icone da Janela e Main.exe.
+- Removido Função.cpp do sistema Right Click.
+- Offsets remover dagrão desativadas.
+- Adicionado Aviso ao apertar os botões do Mouse (Autoclick Esquerdo/Direito )
 - Adicionado novos Mapas Chaos Castle, Exile, Kalima, Aida,Crystal Map, Dare Devil
